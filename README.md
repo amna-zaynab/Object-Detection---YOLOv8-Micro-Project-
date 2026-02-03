@@ -59,14 +59,14 @@ Install the required library using:
 !pip install ultralytics
 
 3. Upload an image:
-from google.colab import files
-files.upload()
+- from google.colab import files
+- files.upload()
 
 4. Load the YOLOv8 model and run detection:
-from ultralytics import YOLO
+- from ultralytics import YOLO
 
-model = YOLO("yolov8n.pt")
-results = model("your_image.jpg", conf=0.5)
+- model = YOLO("yolov8n.pt")
+- results = model("your_image.jpg", conf=0.5)
 
 5. The detected objects will be displayed with bounding boxes and labels.
 
