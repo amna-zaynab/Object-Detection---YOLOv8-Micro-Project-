@@ -40,10 +40,10 @@ The main objective of this project is to help beginners understand and apply mod
 ---
 
 ## 📂 Project Structure
-.
+'''
 ├── Untitled24.ipynb
 └── README.md
-
+'''
 ---
 
 ## ⚙️ Installation
