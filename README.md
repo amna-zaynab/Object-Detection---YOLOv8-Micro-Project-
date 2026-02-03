@@ -75,27 +75,27 @@ results = model("your_image.jpg", conf=0.5)
 ## 📊 Output
 
 The output shows:
--Bounding boxes for detected objects
--Class names
--Confidence scores
+- Bounding boxes for detected objects
+- Class names
+- Confidence scores
 
 ---
 ## 🎯 Applications
 
--Learning object detection
--Computer vision mini projects
--Academic demonstrations
--Real-time vision systems
--Web-based deployment (future scope)
+- Learning object detection
+- Computer vision mini projects
+- Academic demonstrations
+- Real-time vision systems
+- Web-based deployment (future scope)
 
 ---
 
 ## 🚀 Future Enhancements
 
--Integrate the model with a Django web application
--Add live camera and video stream detection
--Save detection results automatically
--Train the model on a custom dataset
--Build a simple user interface
+- Integrate the model with a Django web application
+- Add live camera and video stream detection
+- Save detection results automatically
+- Train the model on a custom dataset
+- Build a simple user interface
 
 --
