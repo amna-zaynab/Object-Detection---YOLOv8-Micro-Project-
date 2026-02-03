@@ -78,6 +78,7 @@ The output shows:
 - Bounding boxes for detected objects
 - Class names
 - Confidence scores
+<img width="758" height="625" alt="image" src="https://github.com/user-attachments/assets/e6187cdb-f6c7-4eba-9f58-af9a0561517e" />
 
 ---
 ## 🎯 Applications
