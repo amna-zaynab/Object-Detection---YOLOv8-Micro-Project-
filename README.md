@@ -56,7 +56,7 @@ Install the required library using:
 1. Open the notebook `Untitled24.ipynb` in Google Colab.
 
 2. Install the required library:
-!pip install ultralytics
+- !pip install ultralytics
 
 3. Upload an image:
 - from google.colab import files
