@@ -62,17 +62,17 @@ Install the required library using:
 from google.colab import files
 files.upload()
 
-4.Load the YOLOv8 model and run detection:
+4. Load the YOLOv8 model and run detection:
 from ultralytics import YOLO
 
 model = YOLO("yolov8n.pt")
 results = model("your_image.jpg", conf=0.5)
 
-5.The detected objects will be displayed with bounding boxes and labels.
+5. The detected objects will be displayed with bounding boxes and labels.
 
 ---
 
-##📊 Output
+## 📊 Output
 
 The output shows:
 -Bounding boxes for detected objects
@@ -80,7 +80,7 @@ The output shows:
 -Confidence scores
 
 ---
-##🎯 Applications
+## 🎯 Applications
 
 -Learning object detection
 -Computer vision mini projects
@@ -90,7 +90,7 @@ The output shows:
 
 ---
 
-##🚀 Future Enhancements
+## 🚀 Future Enhancements
 
 -Integrate the model with a Django web application
 -Add live camera and video stream detection
